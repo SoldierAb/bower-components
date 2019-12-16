@@ -1,0 +1,24 @@
+{
+  "name": "kst-util",
+  "homepage": "https://github.com/SoldierAb/bower-components/kst-util",
+  "authors": [
+    "chengj <ab140140@163.com>"
+  ],
+  "description": "js-lib",
+  "main": "./umd/kst.min.js",
+  "keywords": [
+    "js",
+    "axios",
+    "util",
+    "typescript",
+    "promise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
